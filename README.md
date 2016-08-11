@@ -10,10 +10,10 @@
 # Doing
 
 # To do
-- Study Firebase Database REET API
+- Try to call Firebase Database REST APIs
 - Add a HTTP logger
 
-
 # Done
+- Study Firebase Database REST API
 - Develop Todo REST API using Firebase database NodeJS API
 - ExpressJS setup
