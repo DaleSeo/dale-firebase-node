@@ -8,6 +8,7 @@
 - curl -X PUT http://localhost:3000/todos/-KOltUtEgyQXN2FRCSSK -d '{"title": "JavaScript", "done": false}' -H 'content-type:application/json' -v
 
 # Doing
+- Following https://isolasoftware.it/2012/05/28/call-rest-api-with-node-js/
 
 # To do
 - Try to call Firebase Database REST APIs
